@@ -1,0 +1,1 @@
+This is the Authentication Microservice for Student Management System. The database used here is MySql. A simple Rest API operations has been implemented. The operations can be tested by Postman Tool. 
